@@ -16,7 +16,7 @@ You can start using the PyCBC library now in an interactive notebook!
 
 The easiest way to start using PyCBC on your computer is to install one of our [Docker containers.](https://hub.docker.com/u/pycbc/) Install the [Docker Community Edition](https://www.docker.com/community-edition) for your [Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description) or [Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows?tab=description) desktop, then type the commands shown below. Docker CE installations for [Linux platforms](https://www.docker.com/community-edition#/download) are also available.
 
-<script src="https://raw.githubusercontent.com/mattboldt/typed.js/v1.1.7/js/typed.js" charset="utf-8"></script>
+<script src="https://cdn.rawgit.com/mattboldt/typed.js/v1.1.7/js/typed.js" charset="utf-8"></script>
 <script type="text/javascript">
 	document.addEventListener("DOMContentLoaded", function(){
 		Typed.new(".element", {
