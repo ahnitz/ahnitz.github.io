@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: PyCBC
+subtitle: Software to study gravitational waves.
 use-site-title: true
 ---
 #![GW170817](gw170817.png)
