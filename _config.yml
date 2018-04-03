@@ -24,6 +24,9 @@ description: Analyze gravitational-wave data, find signals, and study their para
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  QUick Start: "quick"
+  Documentation: "http://pycbc.org/pycbc/latest/html/"
+  Publications: "publications"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
